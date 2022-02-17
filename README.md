@@ -21,6 +21,7 @@ ET si vous souhaitez constituer un executable par la suite il faut faire le ``cl
 ## GUI Solution
 
 L'application se presente comme suit à l'ouverture
+<img width="826" alt="Capture d’écran 2022-02-17 à 13 23 21" src="https://user-images.githubusercontent.com/51014164/154478531-d44821d9-1541-4e14-9f27-7ec743e61a9b.png">
 
 
 _les composants de construction :_
