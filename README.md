@@ -1,6 +1,6 @@
 # Demo_Payment_CreditCard
 
-  >*Le paiement sur Internet fournit des moyens de paiement mis en œuvre pour payer sur Internet à partir d'un ordinateur ou à partir d'un smartphone via un réseau de téléphonie mobile. Il est possible aussi de développé avec Java ces genres de solutions ...* 
+Le paiement sur Internet fournit des moyens de paiement mis en œuvre pour payer sur Internet à partir d'un ordinateur ou à partir d'un smartphone via un réseau de téléphonie mobile. Il est possible aussi de développé avec Java ces genres de solutions ... 
 
 ## Pour commencer
 
