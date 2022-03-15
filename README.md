@@ -6,7 +6,8 @@ Le paiement sur Internet fournit des moyens de paiement mis en œuvre pour payer
 
 ### Pré-requis
 
-Le programme d'application nécessaire pour contribuer au dévéloppement de ce projet c'est Java Netbeans (https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
+- Téléchargez et installez JDK sur votre système.
+- Netbeans (https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 
 ### Installation
 
