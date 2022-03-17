@@ -24,9 +24,7 @@ public class frm_principal extends javax.swing.JFrame {
         //mettre le formulaire au devant des autres
         this.setAlwaysOnTop(true);
         //donner une taille a son formulaire
-        this.setSize(804, 538);
         //Initialiser les champs 
-        
     }
 
     /**
